@@ -70,3 +70,9 @@ footer{
     padding: 15px;
     margin-top: 20px;
 }
+.contact-images{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: 20px;
+}
